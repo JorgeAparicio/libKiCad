@@ -1,0 +1,108 @@
+PCBNEW-LibDoc----V1  mer 17 ago 2011 10:53:19 CEST
+#
+$MODULE Cree_CLP6B
+Li Cree_CLP6B
+Cd Cree PLCC6 Led - CLP6B
+$EndMODULE
+#
+$MODULE Citizen_CL82x
+Li Citizen_CL82x
+Cd Citizen_CL82x
+$EndMODULE
+#
+$MODULE Avago_Aveon
+Li Avago_Aveon
+Cd Avago Aveon
+$EndMODULE
+#
+$MODULE Avago_Jade
+Li Avago_Jade
+Cd Avago Jade
+$EndMODULE
+#
+$MODULE Cree_ML-E
+Li Cree_ML-E
+Cd Cree ML-E
+$EndMODULE
+#
+$MODULE Cree_XP
+Li Cree_XP
+Cd Cree XP
+$EndMODULE
+#
+$MODULE Luxeon_Rebel
+Li Luxeon_Rebel
+Cd Philips Lumileds Luxeon Rebel
+$EndMODULE
+#
+$MODULE Seoul_P5-II
+Li Seoul_P5-II
+Cd Seoul P5-II
+$EndMODULE
+#
+$MODULE Cree_XM
+Li Cree_XM
+Cd Cree XM
+$EndMODULE
+#
+$MODULE sharp_doubledome
+Li sharp_doubledome
+Cd Sharp DoubleDome
+$EndMODULE
+#
+$MODULE osram_oslon
+Li osram_oslon
+Cd Osram Oslon
+$EndMODULE
+#
+$MODULE Cree_XR
+Li Cree_XR
+Cd Cree XR
+$EndMODULE
+#
+$MODULE Seoul_P4
+Li Seoul_P4
+Cd Seoul P4
+$EndMODULE
+#
+$MODULE Cree_MX
+Li Cree_MX
+Cd Cree MX
+$EndMODULE
+#
+$MODULE Osram_GoldenDragon
+Li Osram_GoldenDragon
+Cd Osram Golden Dragon
+$EndMODULE
+#
+$MODULE Osram_PlatinumDragon
+Li Osram_PlatinumDragon
+Cd Osram Platinum Dragon
+$EndMODULE
+#
+$MODULE Osram_GoldenDragonPlus
+Li Osram_GoldenDragonPlus
+Cd Osram Golden Dragon Plus
+$EndMODULE
+#
+$MODULE Cree_MC-E
+Li Cree_MC-E
+Cd Cree MC-E
+$EndMODULE
+#
+$MODULE Edison_Edixeon_RGB
+Li Edison_Edixeon_RGB
+Cd Edison Edixeon RGB
+$EndMODULE
+#
+$MODULE Edison_Edixeon_A
+Li Edison_Edixeon_A
+Cd Edison Edixeon A
+$EndMODULE
+#
+$MODULE Seoul_5630
+Li Seoul_5630
+Cd Seoul 5630
+$EndMODULE
+#
+$EndLIBDOC

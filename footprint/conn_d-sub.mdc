@@ -1,0 +1,33 @@
+PCBNEW-LibDoc----V1  sab 15 ago 2009 13:13:28 CEST
+#
+$MODULE DB_9M
+Li DB_9M
+Cd D-SUB 9 pin plug, Tyco P/N 4-338168-2
+$EndMODULE
+#
+$MODULE DB_9F
+Li DB_9F
+Cd D-SUB 9 pin socket, Tyco P/N 4-1634584-2
+$EndMODULE
+#
+$MODULE DB_15F
+Li DB_15F
+Cd D-SUB 15 pin socket, Tyco P/N 5747845-5
+$EndMODULE
+#
+$MODULE DB_15M
+Li DB_15M
+Cd D-SUB 15 pin plug, Tyco P/N 5747841-6
+$EndMODULE
+#
+$MODULE DB_25F
+Li DB_25F
+Cd D-SUB 25 pin socket, Tyco P/N 4-106507-2
+$EndMODULE
+#
+$MODULE DB_25M
+Li DB_25M
+Cd D-SUB 25 pin plug, Tyco P/N 5747842-5
+$EndMODULE
+#
+$EndLIBDOC

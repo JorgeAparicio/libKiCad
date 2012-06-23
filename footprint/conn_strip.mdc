@@ -1,0 +1,57 @@
+PCBNEW-LibDoc----V1  ven 05 mar 2010 11:17:50 CET
+#
+$MODULE vasch_strip_32x2
+Li vasch_strip_32x2
+Cd Vaschetta strip 32x2pin
+Kw CONN DEV
+$EndMODULE
+#
+$MODULE vasch_strip_25x2
+Li vasch_strip_25x2
+Cd Vaschetta strip 25x2pin
+Kw CONN DEV
+$EndMODULE
+#
+$MODULE vasch_strip_20x2
+Li vasch_strip_20x2
+Cd Vaschetta strip 20x2pin
+Kw CONN DEV
+$EndMODULE
+#
+$MODULE vasch_strip_17x2
+Li vasch_strip_17x2
+Cd Vaschetta strip 17x2pin
+Kw CONN DEV
+$EndMODULE
+#
+$MODULE vasch_strip_13x2
+Li vasch_strip_13x2
+Cd Vaschetta strip 13x2pin
+Kw CONN DEV
+$EndMODULE
+#
+$MODULE vasch_strip_10x2
+Li vasch_strip_10x2
+Cd Vaschetta strip 10x2pin
+Kw CONN DEV
+$EndMODULE
+#
+$MODULE vasch_strip_8x2
+Li vasch_strip_8x2
+Cd Vaschetta strip 8x2pin
+Kw CONN DEV
+$EndMODULE
+#
+$MODULE vasch_strip_7x2
+Li vasch_strip_7x2
+Cd Vaschetta strip 7x2pin
+Kw CONN DEV
+$EndMODULE
+#
+$MODULE vasch_strip_5x2
+Li vasch_strip_5x2
+Cd Vaschetta strip 5x2pin
+Kw CONN DEV
+$EndMODULE
+#
+$EndLIBDOC

@@ -1,0 +1,75 @@
+PCBNEW-LibDoc----V1  gio 18 ago 2011 14:24:39 CEST
+#
+$MODULE led_3mm_clear
+Li led_3mm_clear
+Cd 3mm clear led
+Kw led
+$EndMODULE
+#
+$MODULE led_5mm_yellow
+Li led_5mm_yellow
+Cd 5mm yellow led
+Kw led
+$EndMODULE
+#
+$MODULE led_5mm_red
+Li led_5mm_red
+Cd 5mm red led
+Kw led
+$EndMODULE
+#
+$MODULE led_5mm_green
+Li led_5mm_green
+Cd 5mm green led
+Kw led
+$EndMODULE
+#
+$MODULE led_5mm_clear
+Li led_5mm_clear
+Cd 5mm clear led
+Kw led
+$EndMODULE
+#
+$MODULE led_3mm_yellow
+Li led_3mm_yellow
+Cd 3mm yellow led
+Kw led
+$EndMODULE
+#
+$MODULE led_3mm_red
+Li led_3mm_red
+Cd 3mm red led
+Kw led
+$EndMODULE
+#
+$MODULE led_3mm_green
+Li led_3mm_green
+Cd 3mm green led
+Kw led
+$EndMODULE
+#
+$MODULE 7segdisp
+Li 7segdisp
+Cd 7 segments display
+Kw display
+$EndMODULE
+#
+$MODULE 7segdisp_HDSP
+Li 7segdisp_HDSP
+Cd 7 segments display, Avago HDSP
+Kw display
+$EndMODULE
+#
+$MODULE 7segdisp_sa05
+Li 7segdisp_sa05
+Cd 7 segments display, SA05 series
+Kw display
+$EndMODULE
+#
+$MODULE 7segdisp_sa52
+Li 7segdisp_sa52
+Cd 7 segments display, SA52 series
+Kw display
+$EndMODULE
+#
+$EndLIBDOC

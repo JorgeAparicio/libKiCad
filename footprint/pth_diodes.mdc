@@ -1,0 +1,33 @@
+PCBNEW-LibDoc----V1  ven 05 mar 2010 11:46:59 CET
+#
+$MODULE bridge_2KBP
+Li bridge_2KBP
+Cd diode bridge, 2KBP series
+$EndMODULE
+#
+$MODULE bridge_KBU4
+Li bridge_KBU4
+Cd diode bridge, KBU4 series
+$EndMODULE
+#
+$MODULE bridge_wob
+Li bridge_wob
+Cd diode bridge, WOB package
+$EndMODULE
+#
+$MODULE diode_do41
+Li diode_do41
+Cd Diode, DO-41 package
+$EndMODULE
+#
+$MODULE diode_do35
+Li diode_do35
+Cd Diode, DO-35 package
+$EndMODULE
+#
+$MODULE diode_do201
+Li diode_do201
+Cd Diode, DO-201 package
+$EndMODULE
+#
+$EndLIBDOC

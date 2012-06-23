@@ -1,0 +1,159 @@
+PCBNEW-LibDoc----V1  gio 18 ago 2011 12:32:56 CEST
+#
+$MODULE dil_6-300_socket
+Li dil_6-300_socket
+Cd IC, DIL6 x 0,3", with socket
+Kw DIL
+$EndMODULE
+#
+$MODULE dil_6-300
+Li dil_6-300
+Cd IC, DIL6 x 0,3"
+Kw DIL
+$EndMODULE
+#
+$MODULE dil_8-300
+Li dil_8-300
+Cd IC, DIL8 x 0,3"
+Kw DIL
+$EndMODULE
+#
+$MODULE dil_8-300_socket
+Li dil_8-300_socket
+Cd IC, DIL8 x 0,3", with socket
+Kw DIL
+$EndMODULE
+#
+$MODULE dil_14-300_socket
+Li dil_14-300_socket
+Cd IC, DIL14 x 0,3", with socket
+Kw DIL
+$EndMODULE
+#
+$MODULE dil_14-300
+Li dil_14-300
+Cd IC, DIL14 x 0,3"
+Kw DIL
+$EndMODULE
+#
+$MODULE dil_16-300
+Li dil_16-300
+Cd IC, DIL16 x 0,3"
+Kw DIL
+$EndMODULE
+#
+$MODULE dil_16-300_socket
+Li dil_16-300_socket
+Cd IC, DIL16 x 0,3", with socket
+Kw DIL
+$EndMODULE
+#
+$MODULE dil_18-300
+Li dil_18-300
+Cd IC, DIL18 x 0,3"
+Kw DIL
+$EndMODULE
+#
+$MODULE dil_18-300_socket
+Li dil_18-300_socket
+Cd IC, DIL18 x 0,3", with socket
+Kw DIL
+$EndMODULE
+#
+$MODULE dil_20-300_socket
+Li dil_20-300_socket
+Cd IC, DIL20 x 0,3", with socket
+Kw DIL
+$EndMODULE
+#
+$MODULE dil_20-300
+Li dil_20-300
+Cd IC, DIL20 x 0,3"
+Kw DIL
+$EndMODULE
+#
+$MODULE dil_22-300_socket
+Li dil_22-300_socket
+Cd IC, DIL22 x 0,3", with socket
+Kw DIL
+$EndMODULE
+#
+$MODULE dil_22-300
+Li dil_22-300
+Cd IC, DIL22 x 0,3"
+Kw DIL
+$EndMODULE
+#
+$MODULE dil_24-300_socket
+Li dil_24-300_socket
+Cd IC, DIL24 x 0,3", with socket
+Kw DIL
+$EndMODULE
+#
+$MODULE dil_24-300
+Li dil_24-300
+Cd IC, DIL24 x 0,3"
+Kw DIL
+$EndMODULE
+#
+$MODULE dil_28-300_socket
+Li dil_28-300_socket
+Cd IC, DIL28 x 0,3", with socket
+Kw DIL
+$EndMODULE
+#
+$MODULE dil_28-300
+Li dil_28-300
+Cd IC, DIL28 x 0,3"
+Kw DIL
+$EndMODULE
+#
+$MODULE dil_24-600_socket
+Li dil_24-600_socket
+Cd IC, DIL24 x 0,6", with socket
+Kw DIL
+$EndMODULE
+#
+$MODULE dil_24-600
+Li dil_24-600
+Cd IC, DIL24 x 0,6"
+Kw DIL
+$EndMODULE
+#
+$MODULE dil_28-600_socket
+Li dil_28-600_socket
+Cd IC, DIL28 x 0,6", with socket
+Kw DIL
+$EndMODULE
+#
+$MODULE dil_28-600
+Li dil_28-600
+Cd IC, DIL28 x 0,6"
+Kw DIL
+$EndMODULE
+#
+$MODULE dil_40-600_socket
+Li dil_40-600_socket
+Cd IC, DIL40 x 0,6", with socket
+Kw DIL
+$EndMODULE
+#
+$MODULE dil_40-600
+Li dil_40-600
+Cd IC, DIL40 x 0,6"
+Kw DIL
+$EndMODULE
+#
+$MODULE dil_48-600_socket
+Li dil_48-600_socket
+Cd IC, DIL48 x 0,6", with socket
+Kw DIL
+$EndMODULE
+#
+$MODULE dil_48-600
+Li dil_48-600
+Cd IC, DIL48 x 0,6"
+Kw DIL
+$EndMODULE
+#
+$EndLIBDOC

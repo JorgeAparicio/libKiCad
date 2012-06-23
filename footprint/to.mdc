@@ -1,0 +1,113 @@
+PCBNEW-LibDoc----V1  mer 17 ago 2011 14:29:30 CEST
+#
+$MODULE sot82
+Li sot82
+Cd SOT82
+$EndMODULE
+#
+$MODULE to220
+Li to220
+Cd TO220
+$EndMODULE
+#
+$MODULE to220-5
+Li to220-5
+Cd TO220, 5pins
+$EndMODULE
+#
+$MODULE to220-2
+Li to220-2
+Cd TO220, 2 pins
+$EndMODULE
+#
+$MODULE to225
+Li to225
+Cd TO225
+$EndMODULE
+#
+$MODULE to247
+Li to247
+Cd TO247
+$EndMODULE
+#
+$MODULE top3
+Li top3
+Cd TOP3
+$EndMODULE
+#
+$MODULE to220-15
+Li to220-15
+Cd TO220, 15pins
+$EndMODULE
+#
+$MODULE Multiwatt11
+Li Multiwatt11
+Cd MultiWatt 11 pins
+$EndMODULE
+#
+$MODULE to220-2_14cw
+Li to220-2_14cw
+Cd TO220, 2 pins, with 14°C/W heat sink
+$EndMODULE
+#
+$MODULE to220-2_11cw
+Li to220-2_11cw
+Cd TO220, 2 pins, with 11°C/W heat sink
+$EndMODULE
+#
+$MODULE to220_14cw
+Li to220_14cw
+Cd TO220 with 14°C/W heat sink
+$EndMODULE
+#
+$MODULE to220_11cw
+Li to220_11cw
+Cd TO220 with 11°C/W heat sink
+$EndMODULE
+#
+$MODULE to220-horiz
+Li to220-horiz
+Cd TO220, horizontal
+$EndMODULE
+#
+$MODULE to220-5-horiz
+Li to220-5-horiz
+Cd TO220, 5 pins, horizontal
+$EndMODULE
+#
+$MODULE to220-2-horiz
+Li to220-2-horiz
+Cd TO220, 2 pins, horizontal
+$EndMODULE
+#
+$MODULE to92_3
+Li to92_3
+Cd TO92
+$EndMODULE
+#
+$MODULE to18-4
+Li to18-4
+Cd TO18, 4 pins
+$EndMODULE
+#
+$MODULE to18
+Li to18
+Cd TO18 package
+$EndMODULE
+#
+$MODULE ipak
+Li ipak
+Cd IPAK
+$EndMODULE
+#
+$MODULE to3-2
+Li to3-2
+Cd TO3, 2 pins
+$EndMODULE
+#
+$MODULE to3-4
+Li to3-4
+Cd TO3, 4 pins
+$EndMODULE
+#
+$EndLIBDOC
