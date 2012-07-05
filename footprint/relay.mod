@@ -105,7 +105,7 @@ Ne 0 ""
 Po -4783 -1476
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/relay/relay_RT1.wrl"
+Na "../libKiCad/3d/relay/relay_RT1.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -167,7 +167,7 @@ Ne 0 ""
 Po 3500 2000
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/relay/relay_DK1a.wrl"
+Na "../libKiCad/3d/relay/relay_DK1a.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -246,7 +246,7 @@ Ne 0 ""
 Po 2500 2000
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/relay/relay_DK1a-L2.wrl"
+Na "../libKiCad/3d/relay/relay_DK1a-L2.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -326,7 +326,7 @@ Ne 0 ""
 Po -3500 2000
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/relay/relay_DK1a1b.wrl"
+Na "../libKiCad/3d/relay/relay_DK1a1b.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -423,7 +423,7 @@ Ne 0 ""
 Po 2500 2000
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/relay/relay_DK1a1b-L2.wrl"
+Na "../libKiCad/3d/relay/relay_DK1a1b-L2.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -503,7 +503,7 @@ Ne 0 ""
 Po -3500 2000
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/relay/relay_DK1a1b.wrl"
+Na "../libKiCad/3d/relay/relay_DK1a1b.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -600,7 +600,7 @@ Ne 0 ""
 Po 2500 2000
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/relay/relay_DK1a1b-L2.wrl"
+Na "../libKiCad/3d/relay/relay_DK1a1b-L2.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -698,7 +698,7 @@ Ne 0 ""
 Po 1500 -3500
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/relay/relay_HB.wrl"
+Na "../libKiCad/3d/relay/relay_HB.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -765,7 +765,7 @@ Ne 0 ""
 Po -3500 -1500
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/relay/relay_PE.wrl"
+Na "../libKiCad/3d/relay/relay_PE.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -846,7 +846,7 @@ Ne 0 ""
 Po 1000 -2000
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/relay/relay_SY.wrl"
+Na "../libKiCad/3d/relay/relay_SY.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -944,7 +944,7 @@ Ne 0 ""
 Po -3500 -1500
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/relay/relay_V23042.wrl"
+Na "../libKiCad/3d/relay/relay_V23042.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -1066,7 +1066,7 @@ Ne 0 ""
 Po -2500 -1500
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/relay/relay_V23042-B2.wrl"
+Na "../libKiCad/3d/relay/relay_V23042-B2.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000

@@ -84,7 +84,7 @@ Ne 0 ""
 Po 0 0
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/conn_screw/mstbva_2,5-3-g-5,08.wrl"
+Na "../libKiCad/3d/conn_screw/mstbva_2,5-3-g-5,08.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -124,7 +124,7 @@ Ne 0 ""
 Po 1000 0
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/conn_screw/mstbva_2,5-2-g-5,08.wrl"
+Na "../libKiCad/3d/conn_screw/mstbva_2,5-2-g-5,08.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -180,7 +180,7 @@ Ne 0 ""
 Po -1000 0
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/conn_screw/mstbva_2,5-4-g-5,08.wrl"
+Na "../libKiCad/3d/conn_screw/mstbva_2,5-4-g-5,08.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -244,7 +244,7 @@ Ne 0 ""
 Po -2000 0
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/conn_screw/mstbva_2,5-5-g-5,08.wrl"
+Na "../libKiCad/3d/conn_screw/mstbva_2,5-5-g-5,08.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -316,7 +316,7 @@ Ne 0 ""
 Po -3000 0
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/conn_screw/mstbva_2,5-6-g-5,08.wrl"
+Na "../libKiCad/3d/conn_screw/mstbva_2,5-6-g-5,08.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -396,7 +396,7 @@ Ne 0 ""
 Po -4000 0
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/conn_screw/mstbva_2,5-7-g-5,08.wrl"
+Na "../libKiCad/3d/conn_screw/mstbva_2,5-7-g-5,08.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -484,7 +484,7 @@ Ne 0 ""
 Po -5000 0
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/conn_screw/mstbva_2,5-8-g-5,08.wrl"
+Na "../libKiCad/3d/conn_screw/mstbva_2,5-8-g-5,08.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -580,7 +580,7 @@ Ne 0 ""
 Po -6000 0
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/conn_screw/mstbva_2,5-9-g-5,08.wrl"
+Na "../libKiCad/3d/conn_screw/mstbva_2,5-9-g-5,08.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -684,7 +684,7 @@ Ne 0 ""
 Po 9000 0
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/conn_screw/mstbva_2,5-10-g-5,08.wrl"
+Na "../libKiCad/3d/conn_screw/mstbva_2,5-10-g-5,08.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -796,7 +796,7 @@ Ne 0 ""
 Po 10000 0
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/conn_screw/mstbva_2,5-11-g-5,08.wrl"
+Na "../libKiCad/3d/conn_screw/mstbva_2,5-11-g-5,08.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -916,7 +916,7 @@ Ne 0 ""
 Po 11000 0
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/conn_screw/mstbva_2,5-12-g-5,08.wrl"
+Na "../libKiCad/3d/conn_screw/mstbva_2,5-12-g-5,08.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -1080,7 +1080,7 @@ Ne 0 ""
 Po 19000 0
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/conn_screw/mors_20p.wrl"
+Na "../libKiCad/3d/conn_screw/mors_20p.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -1237,7 +1237,7 @@ Ne 0 ""
 Po 18000 0
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/conn_screw/mors_19p.wrl"
+Na "../libKiCad/3d/conn_screw/mors_19p.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -1387,7 +1387,7 @@ Ne 0 ""
 Po 17000 0
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/conn_screw/mors_18p.wrl"
+Na "../libKiCad/3d/conn_screw/mors_18p.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -1530,7 +1530,7 @@ Ne 0 ""
 Po 16000 0
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/conn_screw/mors_17p.wrl"
+Na "../libKiCad/3d/conn_screw/mors_17p.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -1666,7 +1666,7 @@ Ne 0 ""
 Po 15000 0
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/conn_screw/mors_16p.wrl"
+Na "../libKiCad/3d/conn_screw/mors_16p.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -1795,7 +1795,7 @@ Ne 0 ""
 Po 14000 0
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/conn_screw/mors_15p.wrl"
+Na "../libKiCad/3d/conn_screw/mors_15p.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -1917,7 +1917,7 @@ Ne 0 ""
 Po 13000 0
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/conn_screw/mors_14p.wrl"
+Na "../libKiCad/3d/conn_screw/mors_14p.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -2032,7 +2032,7 @@ Ne 0 ""
 Po 12000 0
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/conn_screw/mors_13p.wrl"
+Na "../libKiCad/3d/conn_screw/mors_13p.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -2140,7 +2140,7 @@ Ne 0 ""
 Po 11000 0
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/conn_screw/mors_12p.wrl"
+Na "../libKiCad/3d/conn_screw/mors_12p.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -2241,7 +2241,7 @@ Ne 0 ""
 Po 10000 0
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/conn_screw/mors_11p.wrl"
+Na "../libKiCad/3d/conn_screw/mors_11p.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -2335,7 +2335,7 @@ Ne 0 ""
 Po 9000 0
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/conn_screw/mors_10p.wrl"
+Na "../libKiCad/3d/conn_screw/mors_10p.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -2422,7 +2422,7 @@ Ne 0 ""
 Po 8000 0
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/conn_screw/mors_9p.wrl"
+Na "../libKiCad/3d/conn_screw/mors_9p.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -2505,7 +2505,7 @@ Ne 0 ""
 Po 7000 0
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/conn_screw/mors_8p.wrl"
+Na "../libKiCad/3d/conn_screw/mors_8p.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -2581,7 +2581,7 @@ Ne 0 ""
 Po 6000 0
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/conn_screw/mors_7p.wrl"
+Na "../libKiCad/3d/conn_screw/mors_7p.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -2650,7 +2650,7 @@ Ne 0 ""
 Po 5000 0
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/conn_screw/mors_6p.wrl"
+Na "../libKiCad/3d/conn_screw/mors_6p.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -2712,7 +2712,7 @@ Ne 0 ""
 Po 4000 0
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/conn_screw/mors_5p.wrl"
+Na "../libKiCad/3d/conn_screw/mors_5p.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -2764,7 +2764,7 @@ Ne 0 ""
 Po 3000 0
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/conn_screw/mors_4p.wrl"
+Na "../libKiCad/3d/conn_screw/mors_4p.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -2811,7 +2811,7 @@ Ne 0 ""
 Po 2000 0
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/conn_screw/mors_3p.wrl"
+Na "../libKiCad/3d/conn_screw/mors_3p.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -2851,7 +2851,7 @@ Ne 0 ""
 Po 1000 0
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/conn_screw/mors_2p.wrl"
+Na "../libKiCad/3d/conn_screw/mors_2p.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -2886,7 +2886,7 @@ Ne 0 ""
 Po 1000 0
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/conn_screw/mstba_2,5-2-g-5,08.wrl"
+Na "../libKiCad/3d/conn_screw/mstba_2,5-2-g-5,08.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -2928,7 +2928,7 @@ Ne 0 ""
 Po 2000 0
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/conn_screw/mstba_2,5-3-g-5,08.wrl"
+Na "../libKiCad/3d/conn_screw/mstba_2,5-3-g-5,08.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -2977,7 +2977,7 @@ Ne 0 ""
 Po 1000 0
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/conn_screw/mstba_2,5-4-g-5,08.wrl"
+Na "../libKiCad/3d/conn_screw/mstba_2,5-4-g-5,08.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -3033,7 +3033,7 @@ Ne 0 ""
 Po 4000 0
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/conn_screw/mstba_2,5-5-g-5,08.wrl"
+Na "../libKiCad/3d/conn_screw/mstba_2,5-5-g-5,08.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -3097,7 +3097,7 @@ Ne 0 ""
 Po 5000 0
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/conn_screw/mstba_2,5-6-g-5,08.wrl"
+Na "../libKiCad/3d/conn_screw/mstba_2,5-6-g-5,08.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -3167,7 +3167,7 @@ Ne 0 ""
 Po 6000 0
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/conn_screw/mstba_2,5-7-g-5,08.wrl"
+Na "../libKiCad/3d/conn_screw/mstba_2,5-7-g-5,08.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -3244,7 +3244,7 @@ Ne 0 ""
 Po 7000 0
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/conn_screw/mstba_2,5-8-g-5,08.wrl"
+Na "../libKiCad/3d/conn_screw/mstba_2,5-8-g-5,08.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -3328,7 +3328,7 @@ Ne 0 ""
 Po 8000 0
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/conn_screw/mstba_2,5-9-g-5,08.wrl"
+Na "../libKiCad/3d/conn_screw/mstba_2,5-9-g-5,08.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -3419,7 +3419,7 @@ Ne 0 ""
 Po 9000 0
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/conn_screw/mstba_2,5-10-g-5,08.wrl"
+Na "../libKiCad/3d/conn_screw/mstba_2,5-10-g-5,08.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -3517,7 +3517,7 @@ Ne 0 ""
 Po 10000 0
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/conn_screw/mstba_2,5-11-g-5,08.wrl"
+Na "../libKiCad/3d/conn_screw/mstba_2,5-11-g-5,08.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -3622,7 +3622,7 @@ Ne 0 ""
 Po 11000 0
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/conn_screw/mstba_2,5-12-g-5,08.wrl"
+Na "../libKiCad/3d/conn_screw/mstba_2,5-12-g-5,08.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000

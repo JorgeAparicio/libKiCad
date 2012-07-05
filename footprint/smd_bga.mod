@@ -738,7 +738,7 @@ Ne 0 ""
 Po 1772 -1772
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/smd_bga/fbga100.wrl"
+Na "../libKiCad/3d/smd_bga/fbga100.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -2557,7 +2557,7 @@ Ne 0 ""
 Po 2953 1378
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/smd_bga/fbga256.wrl"
+Na "../libKiCad/3d/smd_bga/fbga256.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -4852,7 +4852,7 @@ Ne 0 ""
 Po 3346 3346
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/smd_bga/fbga324.wrl"
+Na "../libKiCad/3d/smd_bga/fbga324.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -5355,7 +5355,7 @@ Ne 0 ""
 Po 787 -787
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/smd_bga/mbga68.wrl"
+Na "../libKiCad/3d/smd_bga/mbga68.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -6082,7 +6082,7 @@ Ne 0 ""
 Po 197 394
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/smd_bga/mbga100.wrl"
+Na "../libKiCad/3d/smd_bga/mbga100.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -7117,7 +7117,7 @@ Ne 0 ""
 Po 1181 -787
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/smd_bga/mbga144.wrl"
+Na "../libKiCad/3d/smd_bga/mbga144.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -8936,7 +8936,7 @@ Ne 0 ""
 Po 1870 -1870
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/smd_bga/mbga256.wrl"
+Na "../libKiCad/3d/smd_bga/mbga256.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -10481,7 +10481,7 @@ Ne 0 ""
 Po 2520 -2520
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/smd_bga/lfbga217.wrl"
+Na "../libKiCad/3d/smd_bga/lfbga217.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -12298,7 +12298,7 @@ Ne 0 ""
 Po 2953 -2953
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/smd_bga/lbga256.wrl"
+Na "../libKiCad/3d/smd_bga/lbga256.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -13023,7 +13023,7 @@ Ne 0 ""
 Po 1416 -1418
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/smd_bga/tfbga100.wrl"
+Na "../libKiCad/3d/smd_bga/tfbga100.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -14056,7 +14056,7 @@ Ne 0 ""
 Po 1890 -1260
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/smd_bga/tfbga144.wrl"
+Na "../libKiCad/3d/smd_bga/tfbga144.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -15341,7 +15341,7 @@ Ne 0 ""
 Po -787 -472
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/smd_bga/tfbga180.wrl"
+Na "../libKiCad/3d/smd_bga/tfbga180.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -17632,7 +17632,7 @@ Ne 0 ""
 Po -2677 -472
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/smd_bga/spbgan324.wrl"
+Na "../libKiCad/3d/smd_bga/spbgan324.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -19753,7 +19753,7 @@ Ne 0 ""
 Po 768 -1024
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/smd_bga/spbgan298.wrl"
+Na "../libKiCad/3d/smd_bga/spbgan298.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000

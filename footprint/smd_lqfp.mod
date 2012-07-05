@@ -339,7 +339,7 @@ Ne 0 ""
 Po -2264 1575
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/smd_lqfp/lqfp-44.wrl"
+Na "../libKiCad/3d/smd_lqfp/lqfp-44.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -700,7 +700,7 @@ Ne 0 ""
 Po -1614 1083
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/smd_lqfp/lqfp-48.wrl"
+Na "../libKiCad/3d/smd_lqfp/lqfp-48.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -1173,7 +1173,7 @@ Ne 0 ""
 Po -2264 1476
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/smd_lqfp/lqfp-64.wrl"
+Na "../libKiCad/3d/smd_lqfp/lqfp-64.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -1562,7 +1562,7 @@ Ne 0 ""
 Po -2264 1535
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/smd_lqfp/lqfp-52.wrl"
+Na "../libKiCad/3d/smd_lqfp/lqfp-52.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -2483,7 +2483,7 @@ Ne 0 ""
 Po -2992 2441
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/smd_lqfp/lqfp-128.wrl"
+Na "../libKiCad/3d/smd_lqfp/lqfp-128.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -2732,7 +2732,7 @@ Ne 0 ""
 Po -1614 1102
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/smd_lqfp/lqfp-32.wrl"
+Na "../libKiCad/3d/smd_lqfp/lqfp-32.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -3457,7 +3457,7 @@ Ne 0 ""
 Po -3022 2362
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/smd_lqfp/tqfp-100.wrl"
+Na "../libKiCad/3d/smd_lqfp/tqfp-100.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -4490,7 +4490,7 @@ Ne 0 ""
 Po -4222 3445
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/smd_lqfp/tqfp-144.wrl"
+Na "../libKiCad/3d/smd_lqfp/tqfp-144.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000

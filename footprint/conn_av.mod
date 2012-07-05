@@ -100,7 +100,7 @@ Ne 0 ""
 Po 0 709
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/conn_av/minidin-8.wrl"
+Na "../libKiCad/3d/conn_av/minidin-8.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -289,7 +289,7 @@ Ne 0 ""
 Po -10433 -79
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/conn_av/scart.wrl"
+Na "../libKiCad/3d/conn_av/scart.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000

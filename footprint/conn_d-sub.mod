@@ -182,7 +182,7 @@ Ne 0 ""
 Po -3272 -2240
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/conn_d-sub/db_15f.wrl"
+Na "../libKiCad/3d/conn_d-sub/db_15f.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -319,7 +319,7 @@ Ne 0 ""
 Po -4919 -2800
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/conn_d-sub/db_9f.wrl"
+Na "../libKiCad/3d/conn_d-sub/db_9f.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -456,7 +456,7 @@ Ne 0 ""
 Po -4919 -2800
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/conn_d-sub/db_9m.wrl"
+Na "../libKiCad/3d/conn_d-sub/db_9m.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -636,7 +636,7 @@ Ne 0 ""
 Po -3272 -2240
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/conn_d-sub/db_15m.wrl"
+Na "../libKiCad/3d/conn_d-sub/db_15m.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -886,7 +886,7 @@ Ne 0 ""
 Po -5998 -2240
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/conn_d-sub/db_25f.wrl"
+Na "../libKiCad/3d/conn_d-sub/db_25f.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -1136,7 +1136,7 @@ Ne 0 ""
 Po -5998 -2255
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/conn_d-sub/db_25m.wrl"
+Na "../libKiCad/3d/conn_d-sub/db_25m.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000

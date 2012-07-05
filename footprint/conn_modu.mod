@@ -50,7 +50,7 @@ Ne 0 ""
 Po 500 0
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/conn_modu/AMP_MODU_2.wrl"
+Na "../libKiCad/3d/conn_modu/AMP_MODU_2.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -110,7 +110,7 @@ Ne 0 ""
 Po 1500 0
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/conn_modu/AMP_MODU_4.wrl"
+Na "../libKiCad/3d/conn_modu/AMP_MODU_4.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -184,7 +184,7 @@ Ne 0 ""
 Po 2500 0
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/conn_modu/AMP_MODU_6.wrl"
+Na "../libKiCad/3d/conn_modu/AMP_MODU_6.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -272,7 +272,7 @@ Ne 0 ""
 Po -2500 0
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/conn_modu/AMP_MODU_8.wrl"
+Na "../libKiCad/3d/conn_modu/AMP_MODU_8.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -456,7 +456,7 @@ Ne 0 ""
 Po 10500 0
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/conn_modu/AMP_MODU_22.wrl"
+Na "../libKiCad/3d/conn_modu/AMP_MODU_22.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -591,7 +591,7 @@ Ne 0 ""
 Po 7000 0
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/conn_modu/AMP_MODU_15.wrl"
+Na "../libKiCad/3d/conn_modu/AMP_MODU_15.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -705,7 +705,7 @@ Ne 0 ""
 Po 5500 0
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/conn_modu/AMP_MODU_12.wrl"
+Na "../libKiCad/3d/conn_modu/AMP_MODU_12.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -805,7 +805,7 @@ Ne 0 ""
 Po 4500 0
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/conn_modu/AMP_MODU_10.wrl"
+Na "../libKiCad/3d/conn_modu/AMP_MODU_10.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -898,7 +898,7 @@ Ne 0 ""
 Po 4000 0
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/conn_modu/AMP_MODU_9.wrl"
+Na "../libKiCad/3d/conn_modu/AMP_MODU_9.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000

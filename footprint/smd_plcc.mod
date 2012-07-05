@@ -168,7 +168,7 @@ Ne 0 ""
 Po -500 1693
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/smd_plcc/plcc20.wrl"
+Na "../libKiCad/3d/smd_plcc/plcc20.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -408,7 +408,7 @@ Ne 0 ""
 Po -1500 -2165
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/smd_plcc/plcc28.wrl"
+Na "../libKiCad/3d/smd_plcc/plcc28.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -760,7 +760,7 @@ Ne 0 ""
 Po -3189 2500
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/smd_plcc/plcc44.wrl"
+Na "../libKiCad/3d/smd_plcc/plcc44.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -1168,7 +1168,7 @@ Ne 0 ""
 Po -500 3661
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/smd_plcc/plcc52.wrl"
+Na "../libKiCad/3d/smd_plcc/plcc52.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -1688,7 +1688,7 @@ Ne 0 ""
 Po -4685 4000
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/smd_plcc/plcc68.wrl"
+Na "../libKiCad/3d/smd_plcc/plcc68.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -2320,7 +2320,7 @@ Ne 0 ""
 Po -500 5659
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/smd_plcc/plcc84.wrl"
+Na "../libKiCad/3d/smd_plcc/plcc84.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -2588,7 +2588,7 @@ Ne 0 ""
 Po 2165 -2000
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/smd_plcc/plcc32.wrl"
+Na "../libKiCad/3d/smd_plcc/plcc32.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000

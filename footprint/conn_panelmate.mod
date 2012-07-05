@@ -73,7 +73,7 @@ Ne 0 ""
 Po 1368 541
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/conn_panelmate/panelmate_smd_2.wrl"
+Na "../libKiCad/3d/conn_panelmate/panelmate_smd_2.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -145,7 +145,7 @@ Ne 0 ""
 Po 492 -1378
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/conn_panelmate/panelmate_smd_3.wrl"
+Na "../libKiCad/3d/conn_panelmate/panelmate_smd_3.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -247,7 +247,7 @@ Ne 0 ""
 Po 1230 -1378
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/conn_panelmate/panelmate_smd_6.wrl"
+Na "../libKiCad/3d/conn_panelmate/panelmate_smd_6.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -329,7 +329,7 @@ Ne 0 ""
 Po 738 -1378
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/conn_panelmate/panelmate_smd_4.wrl"
+Na "../libKiCad/3d/conn_panelmate/panelmate_smd_4.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -421,7 +421,7 @@ Ne 0 ""
 Po 984 -1378
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/conn_panelmate/panelmate_smd_5.wrl"
+Na "../libKiCad/3d/conn_panelmate/panelmate_smd_5.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -533,7 +533,7 @@ Ne 0 ""
 Po 1476 -1378
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/conn_panelmate/panelmate_smd_7.wrl"
+Na "../libKiCad/3d/conn_panelmate/panelmate_smd_7.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -655,7 +655,7 @@ Ne 0 ""
 Po 1722 -1378
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/conn_panelmate/panelmate_smd_8.wrl"
+Na "../libKiCad/3d/conn_panelmate/panelmate_smd_8.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -787,7 +787,7 @@ Ne 0 ""
 Po 1969 -1378
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/conn_panelmate/panelmate_smd_9.wrl"
+Na "../libKiCad/3d/conn_panelmate/panelmate_smd_9.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -929,7 +929,7 @@ Ne 0 ""
 Po 2215 -1378
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/conn_panelmate/panelmate_smd_10.wrl"
+Na "../libKiCad/3d/conn_panelmate/panelmate_smd_10.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -1091,7 +1091,7 @@ Ne 0 ""
 Po 2707 -1378
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/conn_panelmate/panelmate_smd_12.wrl"
+Na "../libKiCad/3d/conn_panelmate/panelmate_smd_12.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -1273,7 +1273,7 @@ Ne 0 ""
 Po 3199 -1378
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/conn_panelmate/panelmate_smd_14.wrl"
+Na "../libKiCad/3d/conn_panelmate/panelmate_smd_14.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -1465,7 +1465,7 @@ Ne 0 ""
 Po 3445 -1378
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/conn_panelmate/panelmate_smd_15.wrl"
+Na "../libKiCad/3d/conn_panelmate/panelmate_smd_15.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -1687,7 +1687,7 @@ Ne 0 ""
 Po 4183 -1378
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/conn_panelmate/panelmate_smd_18.wrl"
+Na "../libKiCad/3d/conn_panelmate/panelmate_smd_18.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -1929,7 +1929,7 @@ Ne 0 ""
 Po 4675 -1378
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/conn_panelmate/panelmate_smd_20.wrl"
+Na "../libKiCad/3d/conn_panelmate/panelmate_smd_20.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -2271,7 +2271,7 @@ Ne 0 ""
 Po -7136 -1378
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/conn_panelmate/panelmate_smd_30.wrl"
+Na "../libKiCad/3d/conn_panelmate/panelmate_smd_30.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000

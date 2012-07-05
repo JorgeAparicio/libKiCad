@@ -44,7 +44,7 @@ Ne 0 ""
 Po 0 -2461
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/conn_misc/dc_socket.wrl"
+Na "../libKiCad/3d/conn_misc/dc_socket.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -191,7 +191,7 @@ Ne 0 ""
 Po -4764 3868
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/conn_misc/sd_socket.wrl"
+Na "../libKiCad/3d/conn_misc/sd_socket.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -274,7 +274,7 @@ Ne 0 ""
 Po -1250 -2500
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/conn_misc/6p6c.wrl"
+Na "../libKiCad/3d/conn_misc/6p6c.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -343,7 +343,7 @@ Ne 0 ""
 Po -750 -2500
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/conn_misc/6p4c.wrl"
+Na "../libKiCad/3d/conn_misc/6p4c.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -440,7 +440,7 @@ Ne 0 ""
 Po -1750 -2500
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/conn_misc/8p8c.wrl"
+Na "../libKiCad/3d/conn_misc/8p8c.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -594,7 +594,7 @@ Po 2445 -2943
 .LocalClearance 79
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/conn_misc/microsd_socket.wrl"
+Na "../libKiCad/3d/conn_misc/microsd_socket.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000

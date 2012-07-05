@@ -57,7 +57,7 @@ Ne 0 ""
 Po -216 0
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/smd_resistors/r_0402.wrl"
+Na "../libKiCad/3d/smd_resistors/r_0402.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -93,7 +93,7 @@ Ne 0 ""
 Po -296 0
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/smd_resistors/r_0603.wrl"
+Na "../libKiCad/3d/smd_resistors/r_0603.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -129,7 +129,7 @@ Ne 0 ""
 Po -375 0
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/smd_resistors/r_0805.wrl"
+Na "../libKiCad/3d/smd_resistors/r_0805.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -165,7 +165,7 @@ Ne 0 ""
 Po -550 0
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/smd_resistors/r_1206.wrl"
+Na "../libKiCad/3d/smd_resistors/r_1206.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -201,7 +201,7 @@ Ne 0 ""
 Po -550 0
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/smd_resistors/r_1210.wrl"
+Na "../libKiCad/3d/smd_resistors/r_1210.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -237,7 +237,7 @@ Ne 0 ""
 Po -1015 0
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/smd_resistors/r_2010.wrl"
+Na "../libKiCad/3d/smd_resistors/r_2010.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -273,7 +273,7 @@ Ne 0 ""
 Po -1255 0
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/smd_resistors/r_2512.wrl"
+Na "../libKiCad/3d/smd_resistors/r_2512.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -446,7 +446,7 @@ Ne 0 ""
 Po -300 -787
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/smd_resistors/r_cat16-8.wrl"
+Na "../libKiCad/3d/smd_resistors/r_cat16-8.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -543,7 +543,7 @@ Ne 0 ""
 Po -300 472
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/smd_resistors/r_cat16-4.wrl"
+Na "../libKiCad/3d/smd_resistors/r_cat16-4.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -602,7 +602,7 @@ Ne 0 ""
 Po -300 -157
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/smd_resistors/r_cat16-2.wrl"
+Na "../libKiCad/3d/smd_resistors/r_cat16-2.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -647,7 +647,7 @@ Ne 0 ""
 Po 453 -787
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/smd_resistors/trim_bourns_3214j.wrl"
+Na "../libKiCad/3d/smd_resistors/trim_bourns_3214j.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -692,7 +692,7 @@ Ne 0 ""
 Po 453 -1024
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/smd_resistors/trim_bourns_3214g.wrl"
+Na "../libKiCad/3d/smd_resistors/trim_bourns_3214g.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -738,7 +738,7 @@ Ne 0 ""
 Po 492 -571
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/smd_resistors/trim_bourns_3214w.wrl"
+Na "../libKiCad/3d/smd_resistors/trim_bourns_3214w.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -784,7 +784,7 @@ Ne 0 ""
 Po 492 -1004
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/smd_resistors/trim_bourns_3214x.wrl"
+Na "../libKiCad/3d/smd_resistors/trim_bourns_3214x.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -843,7 +843,7 @@ Ne 0 ""
 Po 256 472
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/smd_resistors/trim_murata_pvz2a.wrl"
+Na "../libKiCad/3d/smd_resistors/trim_murata_pvz2a.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -910,7 +910,7 @@ Ne 0 ""
 Po 0 0
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/smd_resistors/trim_murata_pvz2r.wrl"
+Na "../libKiCad/3d/smd_resistors/trim_murata_pvz2r.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -977,7 +977,7 @@ Ne 0 ""
 Po 0 0
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/smd_resistors/trim_murata_pvz2k.wrl"
+Na "../libKiCad/3d/smd_resistors/trim_murata_pvz2k.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -1036,7 +1036,7 @@ Ne 0 ""
 Po 256 512
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/smd_resistors/trim_murata_pva2a.wrl"
+Na "../libKiCad/3d/smd_resistors/trim_murata_pva2a.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -1085,7 +1085,7 @@ Ne 0 ""
 Po 197 276
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/smd_resistors/trim_murata_pvf2.wrl"
+Na "../libKiCad/3d/smd_resistors/trim_murata_pvf2.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -1147,7 +1147,7 @@ Ne 0 ""
 Po 551 -787
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/smd_resistors/trim_bourns_3223j.wrl"
+Na "../libKiCad/3d/smd_resistors/trim_bourns_3223j.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -1209,7 +1209,7 @@ Ne 0 ""
 Po 551 -866
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/smd_resistors/trim_bourns_3223g.wrl"
+Na "../libKiCad/3d/smd_resistors/trim_bourns_3223g.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -1256,7 +1256,7 @@ Ne 0 ""
 Po 551 -478
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/smd_resistors/trim_bourns_3223w.wrl"
+Na "../libKiCad/3d/smd_resistors/trim_bourns_3223w.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -1309,7 +1309,7 @@ Ne 0 ""
 Po 492 -945
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/smd_resistors/trim_diplohm_s11.wrl"
+Na "../libKiCad/3d/smd_resistors/trim_diplohm_s11.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -1362,7 +1362,7 @@ Ne 0 ""
 Po 492 -945
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/smd_resistors/trim_diplohm_s13.wrl"
+Na "../libKiCad/3d/smd_resistors/trim_diplohm_s13.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000

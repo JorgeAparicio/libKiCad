@@ -68,7 +68,7 @@ Ne 0 ""
 Po 0 -1230
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/smd_trans/d-pak.wrl"
+Na "../libKiCad/3d/smd_trans/d-pak.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -157,7 +157,7 @@ Ne 0 ""
 Po 500 1220
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/smd_trans/d-pak-5.wrl"
+Na "../libKiCad/3d/smd_trans/d-pak-5.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -207,7 +207,7 @@ Ne 0 ""
 Po 0 -1969
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/smd_trans/d2-pak.wrl"
+Na "../libKiCad/3d/smd_trans/d2-pak.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -257,7 +257,7 @@ Ne 0 ""
 Po 360 750
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/smd_trans/powermite3.wrl"
+Na "../libKiCad/3d/smd_trans/powermite3.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -301,7 +301,7 @@ Ne 0 ""
 Po 0 -400
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/smd_trans/sc70.wrl"
+Na "../libKiCad/3d/smd_trans/sc70.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -363,7 +363,7 @@ Ne 0 ""
 Po -260 -400
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/smd_trans/sc70-5.wrl"
+Na "../libKiCad/3d/smd_trans/sc70-5.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -433,7 +433,7 @@ Ne 0 ""
 Po 0 -400
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/smd_trans/sc70-6.wrl"
+Na "../libKiCad/3d/smd_trans/sc70-6.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -487,7 +487,7 @@ Ne 0 ""
 Po -375 -416
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/smd_trans/sot143b.wrl"
+Na "../libKiCad/3d/smd_trans/sot143b.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -541,7 +541,7 @@ Ne 0 ""
 Po -375 -416
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/smd_trans/sot143r.wrl"
+Na "../libKiCad/3d/smd_trans/sot143r.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -601,7 +601,7 @@ Ne 0 ""
 Po 0 -1181
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/smd_trans/sot223.wrl"
+Na "../libKiCad/3d/smd_trans/sot223.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -645,7 +645,7 @@ Ne 0 ""
 Po 375 416
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/smd_trans/sot23.wrl"
+Na "../libKiCad/3d/smd_trans/sot23.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -707,7 +707,7 @@ Ne 0 ""
 Po -375 -416
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/smd_trans/sot23-5.wrl"
+Na "../libKiCad/3d/smd_trans/sot23-5.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -777,7 +777,7 @@ Ne 0 ""
 Po 0 -416
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/smd_trans/sot23-6.wrl"
+Na "../libKiCad/3d/smd_trans/sot23-6.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -821,7 +821,7 @@ Ne 0 ""
 Po 256 394
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/smd_trans/sot323.wrl"
+Na "../libKiCad/3d/smd_trans/sot323.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -883,7 +883,7 @@ Ne 0 ""
 Po -256 -394
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/smd_trans/sot323-5.wrl"
+Na "../libKiCad/3d/smd_trans/sot323-5.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -953,7 +953,7 @@ Ne 0 ""
 Po -256 -394
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/smd_trans/sot323-6.wrl"
+Na "../libKiCad/3d/smd_trans/sot323-6.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1003,7 +1003,7 @@ Ne 0 ""
 Po 0 -2185
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/smd_trans/sot404.wrl"
+Na "../libKiCad/3d/smd_trans/sot404.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1053,7 +1053,7 @@ Ne 0 ""
 Po 0 -1358
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/smd_trans/sot428.wrl"
+Na "../libKiCad/3d/smd_trans/sot428.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1113,7 +1113,7 @@ Ne 0 ""
 Po 0 -295
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/smd_trans/sot89.wrl"
+Na "../libKiCad/3d/smd_trans/sot89.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1175,7 +1175,7 @@ Ne 0 ""
 Po 0 1933
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/smd_trans/to263.wrl"
+Na "../libKiCad/3d/smd_trans/to263.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1245,7 +1245,7 @@ Ne 0 ""
 Po 0 -512
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/smd_trans/tsot-6.wrl"
+Na "../libKiCad/3d/smd_trans/tsot-6.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0

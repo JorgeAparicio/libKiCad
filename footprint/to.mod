@@ -61,7 +61,7 @@ Ne 0 ""
 Po -1050 0
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/to/sot82.wrl"
+Na "../libKiCad/3d/to/sot82.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -104,7 +104,7 @@ Ne 0 ""
 Po -1500 0
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/to/to220.wrl"
+Na "../libKiCad/3d/to/to220.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -161,7 +161,7 @@ Ne 0 ""
 Po -1340 0
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/to/to220-5.wrl"
+Na "../libKiCad/3d/to/to220-5.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -197,7 +197,7 @@ Ne 0 ""
 Po -1000 0
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/to/to220-2.wrl"
+Na "../libKiCad/3d/to/to220-2.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -238,7 +238,7 @@ Ne 0 ""
 Po -1440 0
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/to/to225.wrl"
+Na "../libKiCad/3d/to/to225.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -280,7 +280,7 @@ Ne 0 ""
 Po -2150 0
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/to/to247.wrl"
+Na "../libKiCad/3d/to/to247.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -322,7 +322,7 @@ Ne 0 ""
 Po -2175 0
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/to/top3.wrl"
+Na "../libKiCad/3d/to/top3.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -467,7 +467,7 @@ Ne 0 ""
 Po 3000 0
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/to/to220-15.wrl"
+Na "../libKiCad/3d/to/to220-15.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -578,7 +578,7 @@ Ne 0 ""
 Po 3346 2000
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/to/multiwatt11.wrl"
+Na "../libKiCad/3d/to/multiwatt11.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -639,7 +639,7 @@ Ne 0 ""
 Po -5000 -1375
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/to/to220-2_14cw.wrl"
+Na "../libKiCad/3d/to/to220-2_14cw.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -700,7 +700,7 @@ Ne 0 ""
 Po -5000 -1375
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/to/to220-2_11cw.wrl"
+Na "../libKiCad/3d/to/to220-2_11cw.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -768,7 +768,7 @@ Ne 0 ""
 Po -5000 -1375
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/to/to220_14cw.wrl"
+Na "../libKiCad/3d/to/to220_14cw.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -836,7 +836,7 @@ Ne 0 ""
 Po -5000 -1375
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/to/to220_11cw.wrl"
+Na "../libKiCad/3d/to/to220_11cw.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -888,7 +888,7 @@ Ne 0 ""
 Po 0 4280
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/to/to220_horiz.wrl"
+Na "../libKiCad/3d/to/to220_horiz.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -956,7 +956,7 @@ Ne 0 ""
 Po -670 4150
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/to/to220-5_horiz.wrl"
+Na "../libKiCad/3d/to/to220-5_horiz.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -1000,7 +1000,7 @@ Ne 0 ""
 Po 0 -2620
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/to/to220-2_horiz.wrl"
+Na "../libKiCad/3d/to/to220-2_horiz.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -1043,7 +1043,7 @@ Ne 0 ""
 Po -750 250
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/to/to92_3.wrl"
+Na "../libKiCad/3d/to/to92_3.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -1091,7 +1091,7 @@ Ne 0 ""
 Po 0 600
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/to/to18-4.wrl"
+Na "../libKiCad/3d/to/to18-4.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -1132,7 +1132,7 @@ Ne 0 ""
 Po -600 0
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/to/to18.wrl"
+Na "../libKiCad/3d/to/to18.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -1176,7 +1176,7 @@ Ne 0 ""
 Po -1050 0
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/to/ipak.wrl"
+Na "../libKiCad/3d/to/ipak.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -1229,7 +1229,7 @@ Ne 0 ""
 Po 5935 0
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/to/to3-2.wrl"
+Na "../libKiCad/3d/to/to3-2.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -1296,7 +1296,7 @@ Ne 0 ""
 Po 2023 -1469
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/to/to3-4.wrl"
+Na "../libKiCad/3d/to/to3-4.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000

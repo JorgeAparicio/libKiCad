@@ -476,7 +476,7 @@ Ne 0 ""
 Po 15500 -500
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/conn_strip/vasch_strip_32x2.wrl"
+Na "../libKiCad/3d/conn_strip/vasch_strip_32x2.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -850,7 +850,7 @@ Ne 0 ""
 Po 12000 -500
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/conn_strip/vasch_strip_25x2.wrl"
+Na "../libKiCad/3d/conn_strip/vasch_strip_25x2.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -1154,7 +1154,7 @@ Ne 0 ""
 Po 9500 -500
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/conn_strip/vasch_strip_20x2.wrl"
+Na "../libKiCad/3d/conn_strip/vasch_strip_20x2.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -1416,7 +1416,7 @@ Ne 0 ""
 Po 8000 -500
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/conn_strip/vasch_strip_17x2.wrl"
+Na "../libKiCad/3d/conn_strip/vasch_strip_17x2.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -1622,7 +1622,7 @@ Ne 0 ""
 Po 6000 -500
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/conn_strip/vasch_strip_13x2.wrl"
+Na "../libKiCad/3d/conn_strip/vasch_strip_13x2.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -1786,7 +1786,7 @@ Ne 0 ""
 Po 4500 -500
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/conn_strip/vasch_strip_10x2.wrl"
+Na "../libKiCad/3d/conn_strip/vasch_strip_10x2.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -1922,7 +1922,7 @@ Ne 0 ""
 Po 3500 -500
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/conn_strip/vasch_strip_8x2.wrl"
+Na "../libKiCad/3d/conn_strip/vasch_strip_8x2.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -2044,7 +2044,7 @@ Ne 0 ""
 Po 3000 -500
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/conn_strip/vasch_strip_7x2.wrl"
+Na "../libKiCad/3d/conn_strip/vasch_strip_7x2.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -2138,7 +2138,7 @@ Ne 0 ""
 Po 2000 -500
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/conn_strip/vasch_strip_5x2.wrl"
+Na "../libKiCad/3d/conn_strip/vasch_strip_5x2.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000

@@ -48,7 +48,7 @@ Ne 0 ""
 Po 0 0
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/details/testpoint.wrl"
+Na "../libKiCad/3d/details/testpoint.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -73,7 +73,7 @@ Ne 0 ""
 Po 0 0
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/details/testpoint.wrl"
+Na "../libKiCad/3d/details/testpoint.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -98,7 +98,7 @@ Ne 0 ""
 Po 0 0
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/details/testpoint.wrl"
+Na "../libKiCad/3d/details/testpoint.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -123,7 +123,7 @@ Ne 0 ""
 Po 0 0
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/details/testpoint.wrl"
+Na "../libKiCad/3d/details/testpoint.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -149,7 +149,7 @@ Ne 0 ""
 Po 0 0
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/details/hole.wrl"
+Na "../libKiCad/3d/details/hole.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -175,7 +175,7 @@ Ne 0 ""
 Po 0 0
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/details/hole.wrl"
+Na "../libKiCad/3d/details/hole.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -201,7 +201,7 @@ Ne 0 ""
 Po 0 0
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/details/hole.wrl"
+Na "../libKiCad/3d/details/hole.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -227,7 +227,7 @@ Ne 0 ""
 Po 0 0
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/details/hole.wrl"
+Na "../libKiCad/3d/details/hole.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -253,7 +253,7 @@ Ne 0 ""
 Po 0 0
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/details/hole.wrl"
+Na "../libKiCad/3d/details/hole.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -279,7 +279,7 @@ Ne 0 ""
 Po 0 0
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/details/hole.wrl"
+Na "../libKiCad/3d/details/hole.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -305,7 +305,7 @@ Ne 0 ""
 Po 0 0
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/details/hole.wrl"
+Na "../libKiCad/3d/details/hole.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -331,7 +331,7 @@ Ne 0 ""
 Po 0 0
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/details/hole.wrl"
+Na "../libKiCad/3d/details/hole.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -357,7 +357,7 @@ Ne 0 ""
 Po 0 0
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/details/hole.wrl"
+Na "../libKiCad/3d/details/hole.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -383,7 +383,7 @@ Ne 0 ""
 Po 0 0
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/details/hole.wrl"
+Na "../libKiCad/3d/details/hole.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -409,7 +409,7 @@ Ne 0 ""
 Po 0 0
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/details/hole.wrl"
+Na "../libKiCad/3d/details/hole.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -435,7 +435,7 @@ Ne 0 ""
 Po 0 0
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/details/hole.wrl"
+Na "../libKiCad/3d/details/hole.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -461,7 +461,7 @@ Ne 0 ""
 Po 0 0
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/details/hole.wrl"
+Na "../libKiCad/3d/details/hole.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -487,7 +487,7 @@ Ne 0 ""
 Po 0 0
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/details/hole.wrl"
+Na "../libKiCad/3d/details/hole.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -513,7 +513,7 @@ Ne 0 ""
 Po 0 0
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/details/hole.wrl"
+Na "../libKiCad/3d/details/hole.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -539,7 +539,7 @@ Ne 0 ""
 Po 0 0
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/details/hole.wrl"
+Na "../libKiCad/3d/details/hole.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -565,7 +565,7 @@ Ne 0 ""
 Po 0 0
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/details/hole.wrl"
+Na "../libKiCad/3d/details/hole.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -591,7 +591,7 @@ Ne 0 ""
 Po 0 0
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/details/hole.wrl"
+Na "../libKiCad/3d/details/hole.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -617,7 +617,7 @@ Ne 0 ""
 Po 0 0
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/details/hole.wrl"
+Na "../libKiCad/3d/details/hole.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -676,7 +676,7 @@ Ne 0 ""
 Po 0 0
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/details/vite_2mm5.wrl"
+Na "../libKiCad/3d/details/vite_2mm5.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -718,7 +718,7 @@ Ne 0 ""
 Po -5000 0
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/details/hs_11cw_to220.wrl"
+Na "../libKiCad/3d/details/hs_11cw_to220.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -760,7 +760,7 @@ Ne 0 ""
 Po -5000 0
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/details/hs_14cw_to220.wrl"
+Na "../libKiCad/3d/details/hs_14cw_to220.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000

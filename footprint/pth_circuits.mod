@@ -147,7 +147,7 @@ Ne 0 ""
 Po -3000 -1500
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/pth_circuits/dil_14-300.wrl"
+Na "../libKiCad/3d/pth_circuits/dil_14-300.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -278,7 +278,7 @@ Ne 0 ""
 Po -3000 -1500
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/pth_circuits/dil_14-300_socket.wrl"
+Na "../libKiCad/3d/pth_circuits/dil_14-300_socket.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -414,7 +414,7 @@ Ne 0 ""
 Po -3500 -1500
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/pth_circuits/dil_16-300.wrl"
+Na "../libKiCad/3d/pth_circuits/dil_16-300.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -559,7 +559,7 @@ Ne 0 ""
 Po -3500 -1500
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/pth_circuits/dil_16-300_socket.wrl"
+Na "../libKiCad/3d/pth_circuits/dil_16-300_socket.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -709,7 +709,7 @@ Ne 0 ""
 Po -4000 -1500
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/pth_circuits/dil_18-300.wrl"
+Na "../libKiCad/3d/pth_circuits/dil_18-300.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -868,7 +868,7 @@ Ne 0 ""
 Po -4000 -1500
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/pth_circuits/dil_18-300_socket.wrl"
+Na "../libKiCad/3d/pth_circuits/dil_18-300_socket.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1032,7 +1032,7 @@ Ne 0 ""
 Po -4500 -1500
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/pth_circuits/dil_20-300.wrl"
+Na "../libKiCad/3d/pth_circuits/dil_20-300.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1206,7 +1206,7 @@ Ne 0 ""
 Po -4500 -1500
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/pth_circuits/dil_20-300_socket.wrl"
+Na "../libKiCad/3d/pth_circuits/dil_20-300_socket.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1384,7 +1384,7 @@ Ne 0 ""
 Po -5000 -1500
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/pth_circuits/dil_22-300.wrl"
+Na "../libKiCad/3d/pth_circuits/dil_22-300.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1574,7 +1574,7 @@ Ne 0 ""
 Po -5000 -1500
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/pth_circuits/dil_22-300_socket.wrl"
+Na "../libKiCad/3d/pth_circuits/dil_22-300_socket.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1766,7 +1766,7 @@ Ne 0 ""
 Po -5500 -1500
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/pth_circuits/dil_24-300.wrl"
+Na "../libKiCad/3d/pth_circuits/dil_24-300.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -1970,7 +1970,7 @@ Ne 0 ""
 Po -5500 -1500
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/pth_circuits/dil_24-300_socket.wrl"
+Na "../libKiCad/3d/pth_circuits/dil_24-300_socket.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -2162,7 +2162,7 @@ Ne 0 ""
 Po -5500 -3000
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/pth_circuits/dil_24-600.wrl"
+Na "../libKiCad/3d/pth_circuits/dil_24-600.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -2366,7 +2366,7 @@ Ne 0 ""
 Po -5500 -3000
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/pth_circuits/dil_24-600_socket.wrl"
+Na "../libKiCad/3d/pth_circuits/dil_24-600_socket.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -2586,7 +2586,7 @@ Ne 0 ""
 Po -6500 -1500
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/pth_circuits/dil_28-300.wrl"
+Na "../libKiCad/3d/pth_circuits/dil_28-300.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -2818,7 +2818,7 @@ Ne 0 ""
 Po -6500 -1500
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/pth_circuits/dil_28-300_socket.wrl"
+Na "../libKiCad/3d/pth_circuits/dil_28-300_socket.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -3038,7 +3038,7 @@ Ne 0 ""
 Po -6500 -3000
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/pth_circuits/dil_28-600.wrl"
+Na "../libKiCad/3d/pth_circuits/dil_28-600.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -3270,7 +3270,7 @@ Ne 0 ""
 Po -6500 -3000
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/pth_circuits/dil_28-600_socket.wrl"
+Na "../libKiCad/3d/pth_circuits/dil_28-600_socket.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -3322,7 +3322,7 @@ Ne 0 ""
 Po -500 -1500
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/pth_circuits/dil_4-300.wrl"
+Na "../libKiCad/3d/pth_circuits/dil_4-300.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -3626,7 +3626,7 @@ Ne 0 ""
 Po -9500 -3000
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/pth_circuits/dil_40-600.wrl"
+Na "../libKiCad/3d/pth_circuits/dil_40-600.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -3942,7 +3942,7 @@ Ne 0 ""
 Po -9500 -3000
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/pth_circuits/dil_40-600_socket.wrl"
+Na "../libKiCad/3d/pth_circuits/dil_40-600_socket.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -4302,7 +4302,7 @@ Ne 0 ""
 Po -11500 -3000
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/pth_circuits/dil_48-600.wrl"
+Na "../libKiCad/3d/pth_circuits/dil_48-600.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -4674,7 +4674,7 @@ Ne 0 ""
 Po -11500 -3000
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/pth_circuits/dil_48-600_socket.wrl"
+Na "../libKiCad/3d/pth_circuits/dil_48-600_socket.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -4740,7 +4740,7 @@ Ne 0 ""
 Po -1000 -1500
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/pth_circuits/dil_6-300.wrl"
+Na "../libKiCad/3d/pth_circuits/dil_6-300.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -4815,7 +4815,7 @@ Ne 0 ""
 Po -1000 -1500
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/pth_circuits/dil_6-300_socket.wrl"
+Na "../libKiCad/3d/pth_circuits/dil_6-300_socket.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -4895,7 +4895,7 @@ Ne 0 ""
 Po -1500 -1500
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/pth_circuits/dil_8-300.wrl"
+Na "../libKiCad/3d/pth_circuits/dil_8-300.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -4984,7 +4984,7 @@ Ne 0 ""
 Po -1500 -1500
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/pth_circuits/dil_8-300_socket.wrl"
+Na "../libKiCad/3d/pth_circuits/dil_8-300_socket.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -5209,7 +5209,7 @@ Ne 0 ""
 Po -6650 -5118
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/pth_circuits/spm26.wrl"
+Na "../libKiCad/3d/pth_circuits/spm26.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0

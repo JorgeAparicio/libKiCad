@@ -75,7 +75,7 @@ Ne 0 ""
 Po -216 0
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/smd_cap/c_0402.wrl"
+Na "../libKiCad/3d/smd_cap/c_0402.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -111,7 +111,7 @@ Ne 0 ""
 Po -296 0
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/smd_cap/c_0603.wrl"
+Na "../libKiCad/3d/smd_cap/c_0603.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -147,7 +147,7 @@ Ne 0 ""
 Po -375 0
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/smd_cap/c_0805.wrl"
+Na "../libKiCad/3d/smd_cap/c_0805.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -183,7 +183,7 @@ Ne 0 ""
 Po -550 0
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/smd_cap/c_1206.wrl"
+Na "../libKiCad/3d/smd_cap/c_1206.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -219,7 +219,7 @@ Ne 0 ""
 Po -550 0
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/smd_cap/c_1210.wrl"
+Na "../libKiCad/3d/smd_cap/c_1210.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -255,7 +255,7 @@ Ne 0 ""
 Po -1014 0
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/smd_cap/c_2225.wrl"
+Na "../libKiCad/3d/smd_cap/c_2225.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -291,7 +291,7 @@ Ne 0 ""
 Po -1014 0
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/smd_cap/c_2220.wrl"
+Na "../libKiCad/3d/smd_cap/c_2220.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -327,7 +327,7 @@ Ne 0 ""
 Po -807 0
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/smd_cap/c_1825.wrl"
+Na "../libKiCad/3d/smd_cap/c_1825.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -363,7 +363,7 @@ Ne 0 ""
 Po -807 0
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/smd_cap/c_1812.wrl"
+Na "../libKiCad/3d/smd_cap/c_1812.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -399,7 +399,7 @@ Ne 0 ""
 Po -807 0
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/smd_cap/c_1808.wrl"
+Na "../libKiCad/3d/smd_cap/c_1808.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -446,7 +446,7 @@ Ne 0 ""
 Po -709 0
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/smd_cap/c_elec_4x5_7.wrl"
+Na "../libKiCad/3d/smd_cap/c_elec_4x5_7.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -493,7 +493,7 @@ Ne 0 ""
 Po -709 0
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/smd_cap/c_elec_4x4_5.wrl"
+Na "../libKiCad/3d/smd_cap/c_elec_4x4_5.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -540,7 +540,7 @@ Ne 0 ""
 Po -709 0
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/smd_cap/c_elec_4x5_3.wrl"
+Na "../libKiCad/3d/smd_cap/c_elec_4x5_3.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -587,7 +587,7 @@ Ne 0 ""
 Po -709 0
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/smd_cap/c_elec_4x5_8.wrl"
+Na "../libKiCad/3d/smd_cap/c_elec_4x5_8.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -630,7 +630,7 @@ Ne 0 ""
 Po -591 0
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/smd_cap/c_elec_3x5_3.wrl"
+Na "../libKiCad/3d/smd_cap/c_elec_3x5_3.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -676,7 +676,7 @@ Ne 0 ""
 Po -866 0
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/smd_cap/c_elec_5x4_5.wrl"
+Na "../libKiCad/3d/smd_cap/c_elec_5x4_5.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -722,7 +722,7 @@ Ne 0 ""
 Po -866 0
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/smd_cap/c_elec_5x5_3.wrl"
+Na "../libKiCad/3d/smd_cap/c_elec_5x5_3.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -768,7 +768,7 @@ Ne 0 ""
 Po -866 0
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/smd_cap/c_elec_5x5_7.wrl"
+Na "../libKiCad/3d/smd_cap/c_elec_5x5_7.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -814,7 +814,7 @@ Ne 0 ""
 Po -866 0
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/smd_cap/c_elec_5x5_8.wrl"
+Na "../libKiCad/3d/smd_cap/c_elec_5x5_8.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -858,7 +858,7 @@ Ne 0 ""
 Po -1083 0
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/smd_cap/c_elec_6_3x4_5.wrl"
+Na "../libKiCad/3d/smd_cap/c_elec_6_3x4_5.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -902,7 +902,7 @@ Ne 0 ""
 Po -1083 0
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/smd_cap/c_elec_6_3x5_3.wrl"
+Na "../libKiCad/3d/smd_cap/c_elec_6_3x5_3.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -946,7 +946,7 @@ Ne 0 ""
 Po -1083 0
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/smd_cap/c_elec_6_3x5_7.wrl"
+Na "../libKiCad/3d/smd_cap/c_elec_6_3x5_7.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -990,7 +990,7 @@ Ne 0 ""
 Po -1083 0
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/smd_cap/c_elec_6_3x5_8.wrl"
+Na "../libKiCad/3d/smd_cap/c_elec_6_3x5_8.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -1034,7 +1034,7 @@ Ne 0 ""
 Po -1083 0
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/smd_cap/c_elec_6_3x7_7.wrl"
+Na "../libKiCad/3d/smd_cap/c_elec_6_3x7_7.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -1079,7 +1079,7 @@ Ne 0 ""
 Po -1201 0
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/smd_cap/c_elec_8x6_5.wrl"
+Na "../libKiCad/3d/smd_cap/c_elec_8x6_5.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -1124,7 +1124,7 @@ Ne 0 ""
 Po -1201 0
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/smd_cap/c_elec_8x6_7.wrl"
+Na "../libKiCad/3d/smd_cap/c_elec_8x6_7.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -1169,7 +1169,7 @@ Ne 0 ""
 Po -1280 0
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/smd_cap/c_elec_8x10.wrl"
+Na "../libKiCad/3d/smd_cap/c_elec_8x10.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -1214,7 +1214,7 @@ Ne 0 ""
 Po -1280 0
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/smd_cap/c_elec_8x10_5.wrl"
+Na "../libKiCad/3d/smd_cap/c_elec_8x10_5.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -1259,7 +1259,7 @@ Ne 0 ""
 Po -1575 0
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/smd_cap/c_elec_10x10_5.wrl"
+Na "../libKiCad/3d/smd_cap/c_elec_10x10_5.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -1304,7 +1304,7 @@ Ne 0 ""
 Po -1575 0
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/smd_cap/c_elec_10x10.wrl"
+Na "../libKiCad/3d/smd_cap/c_elec_10x10.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -1349,7 +1349,7 @@ Ne 0 ""
 Po -1575 0
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/smd_cap/c_elec_10x7_7.wrl"
+Na "../libKiCad/3d/smd_cap/c_elec_10x7_7.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -1384,7 +1384,7 @@ Ne 0 ""
 Po -1181 0
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/smd_cap/c_tant_X.wrl"
+Na "../libKiCad/3d/smd_cap/c_tant_X.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -1419,7 +1419,7 @@ Ne 0 ""
 Po -1181 0
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/smd_cap/c_tant_V.wrl"
+Na "../libKiCad/3d/smd_cap/c_tant_V.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -1454,7 +1454,7 @@ Ne 0 ""
 Po -994 0
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/smd_cap/c_tant_U.wrl"
+Na "../libKiCad/3d/smd_cap/c_tant_U.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -1489,7 +1489,7 @@ Ne 0 ""
 Po -600 0
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/smd_cap/c_tant_T.wrl"
+Na "../libKiCad/3d/smd_cap/c_tant_T.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -1524,7 +1524,7 @@ Ne 0 ""
 Po -541 0
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/smd_cap/c_tant_S.wrl"
+Na "../libKiCad/3d/smd_cap/c_tant_S.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -1559,7 +1559,7 @@ Ne 0 ""
 Po -463 0
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/smd_cap/c_tant_R.wrl"
+Na "../libKiCad/3d/smd_cap/c_tant_R.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -1594,7 +1594,7 @@ Ne 0 ""
 Po -1181 0
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/smd_cap/c_tant_E.wrl"
+Na "../libKiCad/3d/smd_cap/c_tant_E.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -1629,7 +1629,7 @@ Ne 0 ""
 Po -1181 0
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/smd_cap/c_tant_D.wrl"
+Na "../libKiCad/3d/smd_cap/c_tant_D.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -1664,7 +1664,7 @@ Ne 0 ""
 Po -994 0
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/smd_cap/c_tant_C.wrl"
+Na "../libKiCad/3d/smd_cap/c_tant_C.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -1699,7 +1699,7 @@ Ne 0 ""
 Po -600 0
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/smd_cap/c_tant_B.wrl"
+Na "../libKiCad/3d/smd_cap/c_tant_B.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -1734,7 +1734,7 @@ Ne 0 ""
 Po -541 0
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/smd_cap/c_tant_A.wrl"
+Na "../libKiCad/3d/smd_cap/c_tant_A.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -1777,7 +1777,7 @@ Ne 0 ""
 Po 0 0
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/smd_cap/cfeed_0805.wrl"
+Na "../libKiCad/3d/smd_cap/cfeed_0805.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
