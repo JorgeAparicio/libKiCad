@@ -1,4 +1,4 @@
-PCBNEW-LibModule-V1  22/02/2012 12.09.21
+PCBNEW-LibModule-V1  Wed 04 Jul 2012 08:34:17 PM PET
 # encoding utf-8
 $INDEX
 PCB_PUSH
@@ -12,6 +12,8 @@ encoder_alps-ec12e
 fuse_holder_CQ-2
 inductor_25mm
 inductor_8mm-p5
+fan50
+fuse_holder_clip
 $EndINDEX
 $MODULE crystal_hc-49u
 Po 0 0 0 15 4D174556 00000000 ~~
@@ -50,7 +52,7 @@ Ne 0 ""
 Po 1000 0
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/misc_comp/crystal_hc-49u.wrl"
+Na "../libKiCad/3d/misc_comp/crystal_hc-49u.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -92,7 +94,7 @@ Ne 0 ""
 Po 1000 3088
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/misc_comp/crystal_hc-49u_horiz.wrl"
+Na "../libKiCad/3d/misc_comp/crystal_hc-49u_horiz.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -135,7 +137,7 @@ Ne 0 ""
 Po 1000 0
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/misc_comp/crystal_hc-49s.wrl"
+Na "../libKiCad/3d/misc_comp/crystal_hc-49s.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -174,7 +176,7 @@ Ne 0 ""
 Po 0 4285
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/misc_comp/fuse_cq-200c.wrl"
+Na "../libKiCad/3d/misc_comp/fuse_cq-200c.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -205,7 +207,7 @@ Ne 0 ""
 Po -984 0
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/misc_comp/inductor_8mm-p5.wrl"
+Na "../libKiCad/3d/misc_comp/inductor_8mm-p5.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -237,7 +239,7 @@ Ne 0 ""
 Po -4900 0
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/misc_comp/inductor_25mm.wrl"
+Na "../libKiCad/3d/misc_comp/inductor_25mm.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -314,7 +316,7 @@ Ne 0 ""
 Po 984 -2756
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/misc_comp/encoder_alps-ec12d.wrl"
+Na "../libKiCad/3d/misc_comp/encoder_alps-ec12d.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -377,7 +379,7 @@ Ne 0 ""
 Po 2441 0
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/misc_comp/encoder_alps-ec12e.wrl"
+Na "../libKiCad/3d/misc_comp/encoder_alps-ec12e.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -430,7 +432,7 @@ Ne 0 ""
 Po -1500 -1500
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/misc_comp/pcb_push2.wrl"
+Na "../libKiCad/3d/misc_comp/pcb_push2.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -480,7 +482,7 @@ Ne 0 ""
 Po -886 1280
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d/misc_comp/pcb_push.wrl"
+Na "../libKiCad/3d/misc_comp/pcb_push.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -492,7 +494,7 @@ Li crystal_hc-49/smd
 Cd Crystal, HC-49/SMD
 Kw QUARTZ
 Sc 00000000
-AR 
+AR
 Op 0 A 0
 .SolderPasteRatio 1.04628e-316
 T0 0 -1300 450 500 0 60 N V 21 N "HC-49/SMD"
@@ -528,10 +530,96 @@ Ne 0 ""
 Po 1870 0
 $EndPAD
 $SHAPE3D
-Na "../libkicad/3d//misc_comp//crystal_hc-49-smd.wrl"
+Na "../libKiCad/3d//misc_comp//crystal_hc-49-smd.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
 $EndSHAPE3D
 $EndMODULE  crystal_hc-49/smd
+$MODULE fan50
+Po 0 0 0 15 4FF4E8E8 00000000 ~~
+Li fan50
+Sc 00000000
+AR fan50
+Op 0 0 0
+T0 0 -984 600 600 0 120 N I 21 N "fan50"
+T1 0 984 600 600 0 120 N I 21 N "VAL**"
+DS 9843 7874 9843 -7874 150 21
+DS -7874 9843 7874 9843 150 21
+DS -9843 -7874 -9843 7874 150 21
+DS 7874 -9843 -7874 -9843 150 21
+DA 7874 -7874 7874 -9843 900 150 21
+DA 7874 7874 9843 7874 900 150 21
+DA -7874 7874 -7874 9843 900 150 21
+DA -7874 -7874 -9843 -7874 900 150 21
+$PAD
+Sh "1" C 2000 2000 0 0 0
+Dr 1250 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -7874 -7874
+$EndPAD
+$PAD
+Sh "2" C 2000 2000 0 0 0
+Dr 1250 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -7874 7874
+$EndPAD
+$PAD
+Sh "3" C 2000 2000 0 0 0
+Dr 1250 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 7874 7874
+$EndPAD
+$PAD
+Sh "4" C 2000 2000 0 0 0
+Dr 1250 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 7874 -7874
+$EndPAD
+$EndMODULE  fan50
+$MODULE fuse_holder_clip
+Po 0 0 0 15 4FF4EF15 00000000 ~~
+Li fuse_holder_clip
+Sc 00000000
+AR 
+Op 0 0 0
+T0 0 -1969 600 600 0 120 N V 21 N "fuse_holder_clip"
+T1 0 1969 600 600 0 120 N V 21 N "VAL**"
+DS -3937 -1181 -3937 1181 150 21
+DS -3937 1181 3937 1181 150 21
+DS 3937 1181 3937 -1181 150 21
+DS 3937 -1181 -3937 -1181 150 21
+$PAD
+Sh "1" C 800 800 0 0 0
+Dr 500 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -3937 0
+$EndPAD
+$PAD
+Sh "1" C 800 800 0 0 0
+Dr 500 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -1575 0
+$EndPAD
+$PAD
+Sh "2" C 800 800 0 0 0
+Dr 500 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 1575 0
+$EndPAD
+$PAD
+Sh "2" C 800 800 0 0 0
+Dr 500 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 3937 0
+$EndPAD
+$EndMODULE  fuse_holder_clip
 $EndLIBRARY
