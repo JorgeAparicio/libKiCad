@@ -1,5 +1,12 @@
-PCBNEW-LibModule-V1  sab 10 mar 2012 22:39:07 CET
+PCBNEW-LibModule-V1  Tue 17 Jul 2012 12:11:03 PM PET
 # encoding utf-8
+$INDEX
+conn_usb_mini_th
+$EndINDEX
+$INDEX
+conn_usb_mini_smd
+conn_usb_mini_th
+$EndINDEX
 $INDEX
 DB_15F-VGA
 conn_usb_A
@@ -9,6 +16,7 @@ conn_usb_Ax2
 conn_usb_B
 conn_usb_B-vert
 conn_usb_B_micro_smd
+usb_mini_th
 dvi
 pci-x_conn-x1
 pci-x_conn-x16
@@ -25,6 +33,7 @@ rj45-noshield
 rj45-shield
 rj45-tyco-2-406549-7
 rj45-tyco-5-6605758-4
+conn_usb_mini_smd
 $EndINDEX
 $MODULE conn_usb_B_micro_smd
 Po 0 0 0 15 4E68E149 00000000 ~~
@@ -8059,7 +8068,7 @@ Po 0 0 0 15 4F5BC9F8 00000000 ~~
 Li rj45-tyco-5-6605758-4
 Cd RJ45 + led indicators, Tyco P/N 5-6605758-4
 Sc 00000000
-AR 
+AR
 Op 0 0 0
 T0 0 4900 600 600 0 120 N V 21 N "rj45-tyco-5-6605758-4"
 T1 0 -4700 600 600 0 120 N V 21 N "JP***"
@@ -8221,4 +8230,156 @@ Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
 $EndSHAPE3D
 $EndMODULE  rj45-tyco-5-6605758-4
+$MODULE conn_usb_mini_smd
+Po 0 0 0 15 50039689 00000000 ~~
+Li conn_usb_mini_smd
+Sc 00000000
+AR USB_MINI
+Op 0 0 0
+T0 -1000 -250 340 340 0 60 N V 21 N "conn_usb_mini_smd"
+T1 -1000 300 340 340 0 60 N I 21 N "VAL**"
+DS -2323 -1378 1378 -1378 50 21
+DS 1378 -1378 1378 1378 50 21
+DS 1378 1378 -2323 1378 50 21
+DS -2323 1378 -2323 -1378 50 21
+$PAD
+Sh "H1" C 394 394 0 0 0
+Dr 394 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 -866
+$EndPAD
+$PAD
+Sh "H2" C 394 394 0 0 0
+Dr 394 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 866
+$EndPAD
+$PAD
+Sh "1" R 886 197 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1014 -630
+$EndPAD
+$PAD
+Sh "2" R 886 197 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1014 -315
+$EndPAD
+$PAD
+Sh "3" R 886 197 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1014 0
+$EndPAD
+$PAD
+Sh "4" R 886 197 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1014 315
+$EndPAD
+$PAD
+Sh "5" R 886 197 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1014 630
+$EndPAD
+$PAD
+Sh "SH" R 984 787 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1014 -1752
+$EndPAD
+$PAD
+Sh "SH" R 984 787 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1014 1752
+$EndPAD
+$PAD
+Sh "SH" R 984 787 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1152 -1752
+$EndPAD
+$PAD
+Sh "SH" R 984 787 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1152 1752
+$EndPAD
+$EndMODULE  conn_usb_mini_smd
+$MODULE conn_usb_mini_th
+Po 0 0 0 15 50059CA4 00000000 ~~
+Li conn_usb_mini_th
+Sc 00000000
+AR usb_mini_th
+Op 0 0 0
+T0 0 -1000 600 600 0 120 N V 21 N "conn_usb_mini_th"
+T1 0 4500 600 600 0 120 N I 21 N "VAL**"
+DS 1516 3799 1516 -79 50 21
+DS 1516 -79 -1516 -79 50 21
+DS -1516 -79 -1516 3799 50 21
+DS -1516 3799 1516 3799 50 21
+$PAD
+Sh "3" C 354 354 0 0 0
+Dr 197 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 0
+$EndPAD
+$PAD
+Sh "1" C 354 354 0 0 0
+Dr 197 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -630 0
+$EndPAD
+$PAD
+Sh "5" C 354 354 0 0 0
+Dr 197 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 630 0
+$EndPAD
+$PAD
+Sh "2" C 354 354 0 0 0
+Dr 197 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -315 472
+$EndPAD
+$PAD
+Sh "4" C 354 354 0 0 0
+Dr 197 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 315 472
+$EndPAD
+$PAD
+Sh "SH1" C 689 689 0 0 0
+Dr 591 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -1457 2283
+$EndPAD
+$PAD
+Sh "SH2" C 689 689 0 0 0
+Dr 591 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 1457 2283
+$EndPAD
+$EndMODULE  conn_usb_mini_th
 $EndLIBRARY
