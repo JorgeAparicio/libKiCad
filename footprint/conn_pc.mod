@@ -1,7 +1,8 @@
-PCBNEW-LibModule-V1  Tue 17 Jul 2012 12:11:03 PM PET
+PCBNEW-LibModule-V1  Tue 17 Jul 2012 11:28:48 PM PET
 # encoding utf-8
 $INDEX
 conn_usb_mini_th
+conn_usb_mini_smd
 $EndINDEX
 $INDEX
 conn_usb_mini_smd
@@ -8231,13 +8232,13 @@ Ro 0.000000 0.000000 0.000000
 $EndSHAPE3D
 $EndMODULE  rj45-tyco-5-6605758-4
 $MODULE conn_usb_mini_smd
-Po 0 0 0 15 50039689 00000000 ~~
+Po 0 0 0 15 50063B72 00000000 ~~
 Li conn_usb_mini_smd
 Sc 00000000
 AR USB_MINI
 Op 0 0 0
 T0 -1000 -250 340 340 0 60 N V 21 N "conn_usb_mini_smd"
-T1 -1000 300 340 340 0 60 N I 21 N "VAL**"
+T1 -1000 300 340 340 0 60 N V 21 N "VAL**"
 DS -2323 -1378 1378 -1378 50 21
 DS 1378 -1378 1378 1378 50 21
 DS 1378 1378 -2323 1378 50 21
@@ -8321,13 +8322,13 @@ Po -1152 1752
 $EndPAD
 $EndMODULE  conn_usb_mini_smd
 $MODULE conn_usb_mini_th
-Po 0 0 0 15 50059CA4 00000000 ~~
+Po 0 0 0 15 50063B7D 00000000 ~~
 Li conn_usb_mini_th
 Sc 00000000
 AR usb_mini_th
 Op 0 0 0
 T0 0 -1000 600 600 0 120 N V 21 N "conn_usb_mini_th"
-T1 0 4500 600 600 0 120 N I 21 N "VAL**"
+T1 0 4500 600 600 0 120 N V 21 N "VAL**"
 DS 1516 3799 1516 -79 50 21
 DS 1516 -79 -1516 -79 50 21
 DS -1516 -79 -1516 3799 50 21
