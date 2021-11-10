@@ -2,7 +2,7 @@ ABOUT
 =====
 
 libKiCad is a compilation of footprints and 3d models of various electronics
-components for the KiCad EDA (http://www.kicad-pcb.org/).
+components for the KiCad EDA (http://www.kicad.org/).
 
 The footprint and 3d libraries are based on the Walter Lain's kicad library
 (http://smisioto.no-ip.org/elettronica/kicad/kicad-en.htm).
